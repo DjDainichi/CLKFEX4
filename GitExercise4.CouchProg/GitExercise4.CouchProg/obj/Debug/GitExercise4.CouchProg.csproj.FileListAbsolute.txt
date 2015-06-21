@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise4.CouchProg\GitExercise4.CouchProg\GitExercise4.CouchProg\bin\Debug\GitExercise4.CouchProg.exe.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise4.CouchProg\GitExercise4.CouchProg\GitExercise4.CouchProg\bin\Debug\GitExercise4.CouchProg.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise4.CouchProg\GitExercise4.CouchProg\GitExercise4.CouchProg\bin\Debug\GitExercise4.CouchProg.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise4.CouchProg\GitExercise4.CouchProg\GitExercise4.CouchProg\obj\Debug\GitExercise4.CouchProg.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise4.CouchProg\GitExercise4.CouchProg\GitExercise4.CouchProg\obj\Debug\GitExercise4.CouchProg.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise4.CouchProg\GitExercise4.CouchProg\GitExercise4.CouchProg\obj\Debug\GitExercise4.CouchProg.pdb
